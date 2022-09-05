@@ -5,4 +5,14 @@ class Solution:
         # COLD, WARM, HOT
         # Return the min number of sec needed to fill up all the cups
         
-        return max(max(amount), (sum(amount) + 1) // 2)
+        res = 0
+        amount.sort()
+        
+        while amount[-2] > 0:
+            amount[-1] -= 1
+            amount[-2] -= 1
+            res += 1
+            amount.sort()
+        res += amount[-1]
+        
+        return res
