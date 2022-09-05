@@ -9,22 +9,16 @@ class Solution:
         # In-Order Traversal
         # Left > Node > Right
         
-        inorder = []
+        res = []
+        stack = []
+        cur = root
         
-        def IOT(node):
-            # If node is empty return None
-            if not node: return None
-            
-            # Check left
-            if node.left: 
-                IOT(node.left)
-            
-            # Check Node
-            inorder.append(node.val)
-            
-            # Check right
-            if node.right:
-                IOT(node.right)
+        while cur or stack:
+            while cur:
+                stack.append(cur)
+                cur = cur.left
+            cur = stack.pop()
+            res.append(cur.val)
+            cur = cur.right # Shift right
         
-        IOT(root)
-        return inorder
+        return res
