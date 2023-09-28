@@ -1,6 +1,8 @@
+from collections import defaultdict
+
 class TrieNode:
     def __init__(self):
-        self.children = [None]*26
+        self.children = defaultdict(TrieNode)
         self.end = False
 
 class Trie:
@@ -10,26 +12,21 @@ class Trie:
     def insert(self, word: str) -> None:
         node = self.root
         for char in word:
-            index = ord(char) - ord('a')
-            if not node.children[index]:
-                node.children[index] = TrieNode()
-            node = node.children[index]
+            node = node.children[char]
         node.end = True
 
     def search(self, word: str) -> bool:
         node = self.root
         for char in word:
-            index = ord(char) - ord('a')
-            if not node.children[index]:
+            if char not in node.children:
                 return False
-            node = node.children[index]
+            node = node.children[char]
         return node.end
 
     def startsWith(self, prefix: str) -> bool:
         node = self.root
         for char in prefix:
-            index = ord(char) - ord('a')
-            if not node.children[index]:
+            if char not in node.children:
                 return False
-            node = node.children[index]
+            node = node.children[char]
         return True
