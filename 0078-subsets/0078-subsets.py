@@ -2,6 +2,7 @@ class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         res, sub = [], []
         def dfs(i):
+            # base case
             if i >= len(nums):
                 res.append(sub.copy())
                 return
