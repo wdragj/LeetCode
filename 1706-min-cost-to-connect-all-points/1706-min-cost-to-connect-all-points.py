@@ -23,5 +23,4 @@ class Solution:
             for neighbor in adj[point]:
                 val, nei = neighbor
                 heapq.heappush(pq, [val, nei])
-        
         return res
