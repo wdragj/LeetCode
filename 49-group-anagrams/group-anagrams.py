@@ -2,7 +2,6 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         uniques = {}
         anagrams = []
-
         for word in strs:
             sorted_word = ""
             chars = sorted([c for c in word])
