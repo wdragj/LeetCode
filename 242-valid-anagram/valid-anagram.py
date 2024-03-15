@@ -13,4 +13,4 @@ class Solution:
             if sHash[c] != tHash.get(c, 0):
                 return False
         
-        return True
+        return True 
