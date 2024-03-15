@@ -12,4 +12,5 @@ class Solution:
                 uniques[sorted_word].append(word)
             else:
                 uniques[sorted_word] = [word]
+
         return uniques.values()
