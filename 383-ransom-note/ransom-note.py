@@ -1,7 +1,6 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         hashDict = {}
-
         for c in magazine:
             if c not in hashDict:
                 hashDict[c] = 1
