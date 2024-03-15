@@ -12,5 +12,4 @@ class Solution:
         for c in s:
             if sHash[c] != tHash.get(c, 0):
                 return False
-        
-        return True 
+        return True
