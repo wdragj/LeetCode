@@ -1,13 +1,15 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # left and right pointers
-        l, r = 0, 1
+        # hashmap to store 
+        # key: current val
+        # val: current idx
 
-        while l <= len(nums) -1:
-            for i in range(r, len(nums)):
-                if nums[l] + nums[i] == target:
-                    return [l, i]
-            l += 1
-            r += 1
-        
-        return [l, r]
+        hashmap = {}
+
+        for i, v in enumerate(nums):
+            if v not in hashmap:
+                hashmap[v] = i
+            
+            find = target - v
+            if find in hashmap and hashmap[find] != i:
+                return [hashmap[find], i]
