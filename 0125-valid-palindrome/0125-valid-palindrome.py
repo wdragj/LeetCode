@@ -2,9 +2,6 @@ from collections import defaultdict
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        # Base case:
-
-
         ans = ""
 
         for ch in s:
