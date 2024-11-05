@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/wdragj/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/wdragj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/wdragj/LeetCode/tree/master/0242-valid-anagram) |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/wdragj/LeetCode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/wdragj/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
