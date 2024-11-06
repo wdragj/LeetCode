@@ -19,7 +19,5 @@ class Solution:
                         l += 1
                     elif matrix[i][mid] > target:
                         r -= 1
-            
-            
 
         return False
