@@ -146,6 +146,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wdragj/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/wdragj/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/wdragj/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/wdragj/LeetCode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/wdragj/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/wdragj/LeetCode/tree/master/1013-fibonacci-number) |
@@ -163,4 +164,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/wdragj/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
