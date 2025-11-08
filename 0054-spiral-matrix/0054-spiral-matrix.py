@@ -7,7 +7,7 @@ class Solution:
         spiral_order = []
         right, down, left, up = n, m, 0, 0
 
-        while len(spiral_order) != (n * m):
+        while True:
             # Scan right
             for r in range(left, right):
                 spiral_order.append(matrix[up][r])
