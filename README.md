@@ -22,6 +22,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wdragj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/wdragj/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/wdragj/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/wdragj/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/wdragj/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/wdragj/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -92,12 +93,14 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/wdragj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/wdragj/LeetCode/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/wdragj/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/wdragj/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/wdragj/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/wdragj/LeetCode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,4 +190,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/wdragj/LeetCode/tree/master/0054-spiral-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/wdragj/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/wdragj/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
