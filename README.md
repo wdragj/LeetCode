@@ -34,6 +34,7 @@
 | [0883-car-fleet](https://github.com/wdragj/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/wdragj/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/wdragj/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0155-min-stack](https://github.com/wdragj/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/wdragj/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/wdragj/LeetCode/tree/master/0883-car-fleet) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/wdragj/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0042-trapping-rain-water](https://github.com/wdragj/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/wdragj/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/wdragj/LeetCode/tree/master/0883-car-fleet) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/wdragj/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Dynamic Programming
 |  |
 | ------- |
