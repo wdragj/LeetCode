@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/wdragj/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/wdragj/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/wdragj/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/wdragj/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/wdragj/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/wdragj/LeetCode/tree/master/0078-subsets) |
@@ -246,6 +247,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/wdragj/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/wdragj/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/wdragj/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/wdragj/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/wdragj/LeetCode/tree/master/0131-palindrome-partitioning) |
