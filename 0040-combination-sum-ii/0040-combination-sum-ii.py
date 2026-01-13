@@ -2,13 +2,10 @@ class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         ans = []
         candidates.sort()
-        used = set()
         def backtrack(comb: List[int], start: int, t: int) -> None:
             if t == 0:
-                if tuple(comb[:]) not in used:
-                    ans.append(comb[:])
-                    used.add(tuple(comb[:]))
-                    return
+                ans.append(comb[:])
+                return
             
             for i in range(start, len(candidates)):
                 if candidates[i] > t:
