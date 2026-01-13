@@ -16,6 +16,7 @@ class Solution:
                 next_row, next_col = row + d[0], col + d[1]
                 if (0 <= next_row < m) and (0 <= next_col < n) and board[next_row][next_col]:
                     if backtrack(next_row, next_col, k + 1):
+                        board[row][col] = tmp
                         return True
             board[row][col] = tmp
             return False
