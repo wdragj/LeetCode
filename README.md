@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/wdragj/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/wdragj/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/wdragj/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/wdragj/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wdragj/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@
 | [0020-valid-parentheses](https://github.com/wdragj/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/wdragj/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/wdragj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/wdragj/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/wdragj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -111,6 +113,7 @@
 | [0036-valid-sudoku](https://github.com/wdragj/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/wdragj/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/wdragj/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/wdragj/LeetCode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
@@ -212,6 +215,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/wdragj/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -236,4 +240,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/wdragj/LeetCode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
