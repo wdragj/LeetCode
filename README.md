@@ -39,6 +39,7 @@
 | [0883-car-fleet](https://github.com/wdragj/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/wdragj/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1095-find-in-mountain-array](https://github.com/wdragj/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/wdragj/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@
 | [0792-binary-search](https://github.com/wdragj/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/wdragj/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/wdragj/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1095-find-in-mountain-array](https://github.com/wdragj/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Greedy
 |  |
 | ------- |
@@ -265,4 +267,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/wdragj/LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/wdragj/LeetCode/tree/master/0310-minimum-height-trees) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/wdragj/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
