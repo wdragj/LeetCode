@@ -40,6 +40,7 @@
 | [0907-koko-eating-bananas](https://github.com/wdragj/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/wdragj/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1834-single-threaded-cpu](https://github.com/wdragj/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/wdragj/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/wdragj/LeetCode/tree/master/0883-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1834-single-threaded-cpu](https://github.com/wdragj/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1834-single-threaded-cpu](https://github.com/wdragj/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Bucket Sort
 |  |
 | ------- |
