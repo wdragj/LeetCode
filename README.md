@@ -14,6 +14,7 @@
 | [0039-combination-sum](https://github.com/wdragj/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/wdragj/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/wdragj/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/wdragj/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/wdragj/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/wdragj/LeetCode/tree/master/0054-spiral-matrix) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/wdragj/LeetCode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/wdragj/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/wdragj/LeetCode/tree/master/0217-contains-duplicate) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/wdragj/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/wdragj/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/wdragj/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/wdragj/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/wdragj/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
