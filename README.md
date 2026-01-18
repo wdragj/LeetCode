@@ -20,6 +20,7 @@
 | [0074-search-a-2d-matrix](https://github.com/wdragj/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/wdragj/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/wdragj/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/wdragj/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wdragj/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0015-3sum](https://github.com/wdragj/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/wdragj/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/wdragj/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -133,6 +135,7 @@
 | [0011-container-with-most-water](https://github.com/wdragj/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/wdragj/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/wdragj/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/wdragj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wdragj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
