@@ -18,7 +18,5 @@ class Solution:
                 ans[0] = root.val
             right = dfs(root.right)
             return None
-
         dfs(root)
-
         return ans[0]
