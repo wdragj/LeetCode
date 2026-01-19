@@ -245,6 +245,7 @@
 | [0130-surrounded-regions](https://github.com/wdragj/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/wdragj/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/wdragj/LeetCode/tree/master/0207-course-schedule) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/wdragj/LeetCode/tree/master/0310-minimum-height-trees) |
 ## Breadth-First Search
 |  |
@@ -257,10 +258,12 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -295,4 +298,8 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/wdragj/LeetCode/tree/master/0130-surrounded-regions) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
