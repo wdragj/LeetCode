@@ -38,6 +38,7 @@
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
+| [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/wdragj/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/wdragj/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/wdragj/LeetCode/tree/master/0883-car-fleet) |
@@ -73,6 +74,7 @@
 | [0217-contains-duplicate](https://github.com/wdragj/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/wdragj/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/wdragj/LeetCode/tree/master/0883-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1834-single-threaded-cpu](https://github.com/wdragj/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/wdragj/LeetCode/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/wdragj/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Bucket Sort
@@ -144,6 +147,7 @@
 | [0088-merge-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/wdragj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wdragj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -155,6 +159,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wdragj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/wdragj/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/wdragj/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/wdragj/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/wdragj/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -276,6 +281,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/wdragj/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/wdragj/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/wdragj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
 | ------- |
