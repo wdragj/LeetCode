@@ -182,11 +182,13 @@
 | [0155-min-stack](https://github.com/wdragj/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/wdragj/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/wdragj/LeetCode/tree/master/0883-car-fleet) |
+| [0901-online-stock-span](https://github.com/wdragj/LeetCode/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/wdragj/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/wdragj/LeetCode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/wdragj/LeetCode/tree/master/0901-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/wdragj/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
@@ -203,6 +205,7 @@
 | [0042-trapping-rain-water](https://github.com/wdragj/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/wdragj/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/wdragj/LeetCode/tree/master/0883-car-fleet) |
+| [0901-online-stock-span](https://github.com/wdragj/LeetCode/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/wdragj/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Dynamic Programming
 |  |
@@ -319,4 +322,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/wdragj/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
