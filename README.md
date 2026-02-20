@@ -201,6 +201,7 @@
 | [0013-roman-to-integer](https://github.com/wdragj/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/wdragj/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/wdragj/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0343-integer-break](https://github.com/wdragj/LeetCode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/wdragj/LeetCode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
@@ -225,6 +226,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/wdragj/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/wdragj/LeetCode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/wdragj/LeetCode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/wdragj/LeetCode/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/wdragj/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
