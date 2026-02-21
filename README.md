@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/wdragj/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/wdragj/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/wdragj/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/wdragj/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/wdragj/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/wdragj/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/wdragj/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/wdragj/LeetCode/tree/master/0130-surrounded-regions) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/wdragj/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/wdragj/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/wdragj/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/wdragj/LeetCode/tree/master/0119-pascals-triangle-ii) |
