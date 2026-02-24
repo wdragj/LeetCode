@@ -45,6 +45,7 @@
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/wdragj/LeetCode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/wdragj/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/wdragj/LeetCode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/wdragj/LeetCode/tree/master/0792-binary-search) |
@@ -175,6 +176,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/wdragj/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/wdragj/LeetCode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/wdragj/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/wdragj/LeetCode/tree/master/0907-koko-eating-bananas) |
