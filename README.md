@@ -293,6 +293,7 @@
 | [0337-house-robber-iii](https://github.com/wdragj/LeetCode/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/wdragj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/wdragj/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -302,18 +303,21 @@
 | [0310-minimum-height-trees](https://github.com/wdragj/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/wdragj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/wdragj/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/wdragj/LeetCode/tree/master/0337-house-robber-iii) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/wdragj/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/wdragj/LeetCode/tree/master/0337-house-robber-iii) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/wdragj/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
