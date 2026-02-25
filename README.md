@@ -108,6 +108,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/wdragj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/wdragj/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1023-time-based-key-value-store](https://github.com/wdragj/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/wdragj/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/wdragj/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/wdragj/LeetCode/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/wdragj/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
