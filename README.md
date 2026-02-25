@@ -214,6 +214,7 @@
 | [0066-plus-one](https://github.com/wdragj/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/wdragj/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/wdragj/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/wdragj/LeetCode/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/wdragj/LeetCode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/wdragj/LeetCode/tree/master/1013-fibonacci-number) |
@@ -250,6 +251,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/wdragj/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/wdragj/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -265,6 +267,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/wdragj/LeetCode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/wdragj/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/wdragj/LeetCode/tree/master/0338-counting-bits) |
 ## Trie
 |  |
