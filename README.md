@@ -284,6 +284,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/wdragj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/wdragj/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/wdragj/LeetCode/tree/master/0200-number-of-islands) |
@@ -307,6 +308,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/wdragj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/wdragj/LeetCode/tree/master/0337-house-robber-iii) |
@@ -314,6 +316,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/wdragj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/wdragj/LeetCode/tree/master/0337-house-robber-iii) |
@@ -358,6 +361,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/wdragj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Data Stream
 |  |
