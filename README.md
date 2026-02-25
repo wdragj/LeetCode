@@ -33,6 +33,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/wdragj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/wdragj/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/wdragj/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/wdragj/LeetCode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/wdragj/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/wdragj/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -197,6 +198,7 @@
 | [0011-container-with-most-water](https://github.com/wdragj/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/wdragj/LeetCode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/wdragj/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/wdragj/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
