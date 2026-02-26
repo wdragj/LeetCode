@@ -115,6 +115,7 @@
 | [0242-valid-anagram](https://github.com/wdragj/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/wdragj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/wdragj/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0649-dota2-senate](https://github.com/wdragj/LeetCode/tree/master/0649-dota2-senate) |
 | [1023-time-based-key-value-store](https://github.com/wdragj/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/wdragj/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/wdragj/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -207,6 +208,7 @@
 | [0134-gas-station](https://github.com/wdragj/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/wdragj/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0649-dota2-senate](https://github.com/wdragj/LeetCode/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
 | ------- |
@@ -406,4 +408,8 @@
 | ------- |
 | [0133-clone-graph](https://github.com/wdragj/LeetCode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/wdragj/LeetCode/tree/master/0210-course-schedule-ii) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/wdragj/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
