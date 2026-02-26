@@ -51,6 +51,7 @@
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/wdragj/LeetCode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/wdragj/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/wdragj/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/wdragj/LeetCode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -169,6 +170,7 @@
 | [0130-surrounded-regions](https://github.com/wdragj/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/wdragj/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/wdragj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/wdragj/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
 ## Two Pointers
 |  |
@@ -318,6 +320,7 @@
 | [0310-minimum-height-trees](https://github.com/wdragj/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/wdragj/LeetCode/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/wdragj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/wdragj/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/wdragj/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -332,6 +335,7 @@
 | [0279-perfect-squares](https://github.com/wdragj/LeetCode/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/wdragj/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/wdragj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/wdragj/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/wdragj/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Tree
@@ -389,6 +393,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/wdragj/LeetCode/tree/master/0130-surrounded-regions) |
+| [0695-max-area-of-island](https://github.com/wdragj/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
 ## Binary Search Tree
 |  |
