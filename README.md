@@ -63,6 +63,7 @@
 | [1095-find-in-mountain-array](https://github.com/wdragj/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1834-single-threaded-cpu](https://github.com/wdragj/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/wdragj/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2392-build-a-matrix-with-conditions](https://github.com/wdragj/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/wdragj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/wdragj/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [2392-build-a-matrix-with-conditions](https://github.com/wdragj/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -385,6 +387,7 @@
 | [0207-course-schedule](https://github.com/wdragj/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/wdragj/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/wdragj/LeetCode/tree/master/0310-minimum-height-trees) |
+| [2392-build-a-matrix-with-conditions](https://github.com/wdragj/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Interactive
 |  |
 | ------- |
@@ -413,6 +416,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/wdragj/LeetCode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/wdragj/LeetCode/tree/master/0210-course-schedule-ii) |
+| [2392-build-a-matrix-with-conditions](https://github.com/wdragj/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Queue
 |  |
 | ------- |
