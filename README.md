@@ -58,6 +58,7 @@
 | [0792-binary-search](https://github.com/wdragj/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/wdragj/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/wdragj/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/wdragj/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/wdragj/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/wdragj/LeetCode/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/wdragj/LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -127,6 +128,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/wdragj/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/wdragj/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/wdragj/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/wdragj/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/wdragj/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/wdragj/LeetCode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/wdragj/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
@@ -421,4 +424,9 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/wdragj/LeetCode/tree/master/0649-dota2-senate) |
+| [0918-maximum-sum-circular-subarray](https://github.com/wdragj/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/wdragj/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
