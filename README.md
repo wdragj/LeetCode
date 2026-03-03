@@ -45,6 +45,7 @@
 | [0229-majority-element-ii](https://github.com/wdragj/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/wdragj/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/wdragj/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/wdragj/LeetCode/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/wdragj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -279,6 +280,7 @@
 | [0198-house-robber](https://github.com/wdragj/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/wdragj/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/wdragj/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/wdragj/LeetCode/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/wdragj/LeetCode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/wdragj/LeetCode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/wdragj/LeetCode/tree/master/0343-integer-break) |
