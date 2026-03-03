@@ -1,23 +1,22 @@
+from collections import deque
 import heapq
 class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:
-        tasks = [(enq_time, process_time, i) for i, (enq_time, process_time) in enumerate(tasks)]
-        tasks.sort(key = lambda x: x[0])
-        n = len(tasks)
-        i = 0
-        curr_time = 0
-        min_heap = []
-        ans = []
-        while i < n or min_heap:
-            while i < n and tasks[i][0] <= curr_time:
-                enqueueTime, processingTime, task_i = tasks[i]
-                heapq.heappush(min_heap, (processingTime, task_i))
+        for i, t in enumerate(tasks):
+            t.append(i)
+        tasks.sort()
+
+        res, minHeap = [], []
+        i, time = 0, tasks[0][0]
+
+        while minHeap or i < len(tasks):
+            while i < len(tasks) and time >= tasks[i][0]:
+                heapq.heappush(minHeap, [tasks[i][1], tasks[i][2]])
                 i += 1
-            
-            if min_heap:
-                processingTime, task_i = heapq.heappop(min_heap)
-                ans.append(task_i)
-                curr_time += processingTime
+            if not minHeap:
+                time = tasks[i][0]
             else:
-                curr_time = tasks[i][0]
-        return ans
+                procTime, index = heapq.heappop(minHeap)
+                time += procTime
+                res.append(index)
+        return res
