@@ -118,6 +118,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wdragj/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/wdragj/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/wdragj/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/wdragj/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/wdragj/LeetCode/tree/master/0125-valid-palindrome) |
@@ -274,6 +275,7 @@
 | [0063-unique-paths-ii](https://github.com/wdragj/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/wdragj/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/wdragj/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/wdragj/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/wdragj/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wdragj/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
