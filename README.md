@@ -19,6 +19,7 @@
 | [0047-permutations-ii](https://github.com/wdragj/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/wdragj/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/wdragj/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/wdragj/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/wdragj/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/wdragj/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/wdragj/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/wdragj/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/wdragj/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -276,6 +278,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/wdragj/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/wdragj/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/wdragj/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/wdragj/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/wdragj/LeetCode/tree/master/0070-climbing-stairs) |
