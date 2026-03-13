@@ -155,6 +155,7 @@
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wdragj/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/wdragj/LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/wdragj/LeetCode/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/wdragj/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -312,6 +313,7 @@
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/wdragj/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wdragj/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/wdragj/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/wdragj/LeetCode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/wdragj/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -367,6 +369,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/wdragj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/wdragj/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wdragj/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/wdragj/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -382,6 +385,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/wdragj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/wdragj/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/wdragj/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wdragj/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/wdragj/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Tree
 |  |
@@ -459,6 +463,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/wdragj/LeetCode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/wdragj/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wdragj/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2392-build-a-matrix-with-conditions](https://github.com/wdragj/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Queue
 |  |
@@ -469,4 +474,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/wdragj/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/wdragj/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
