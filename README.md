@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/wdragj/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/wdragj/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/wdragj/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/wdragj/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/wdragj/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/wdragj/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/wdragj/LeetCode/tree/master/0053-maximum-subarray) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/wdragj/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/wdragj/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/wdragj/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/wdragj/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -260,6 +262,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/wdragj/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/wdragj/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/wdragj/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/wdragj/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/wdragj/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/wdragj/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
