@@ -1,14 +1,6 @@
 class Solution:
     def rotate(self, matrix: List[List[int]]) -> None:
-        map = {}
-        n = len(matrix)
-
-        tmp = n - 1
-        for r in range(n):
-            for c in range(n):
-                map[(c, tmp)] = matrix[r][c]
-            tmp -= 1
-        
-        for r in range(n):
-            for c in range(n):
-                matrix[r][c] = map[(r, c)]
+        matrix.reverse()
+        for i in range(len(matrix)):
+            for j in range(i + 1, len(matrix)):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
