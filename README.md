@@ -53,6 +53,7 @@
 | [0347-top-k-frequent-elements](https://github.com/wdragj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/wdragj/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0473-matchsticks-to-square](https://github.com/wdragj/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0658-find-k-closest-elements](https://github.com/wdragj/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/wdragj/LeetCode/tree/master/0682-baseball-game) |
@@ -311,6 +312,7 @@
 | [0338-counting-bits](https://github.com/wdragj/LeetCode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/wdragj/LeetCode/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/wdragj/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0473-matchsticks-to-square](https://github.com/wdragj/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/wdragj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/wdragj/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/wdragj/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -339,6 +341,7 @@
 | [0078-subsets](https://github.com/wdragj/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/wdragj/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/wdragj/LeetCode/tree/master/0338-counting-bits) |
+| [0473-matchsticks-to-square](https://github.com/wdragj/LeetCode/tree/master/0473-matchsticks-to-square) |
 ## Trie
 |  |
 | ------- |
@@ -423,6 +426,7 @@
 | [0078-subsets](https://github.com/wdragj/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/wdragj/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/wdragj/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/wdragj/LeetCode/tree/master/0473-matchsticks-to-square) |
 ## Graph
 |  |
 | ------- |
@@ -478,4 +482,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/wdragj/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/wdragj/LeetCode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
