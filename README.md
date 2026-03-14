@@ -397,6 +397,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/wdragj/LeetCode/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/wdragj/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -405,6 +406,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/wdragj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/wdragj/LeetCode/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/wdragj/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
@@ -454,6 +456,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/wdragj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/wdragj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Data Stream
 |  |
 | ------- |
